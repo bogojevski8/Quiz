@@ -1,5 +1,5 @@
 
-A Quiz game created with ReactJS, SaSS and HTML.
+A Quiz game created with ReactJS, SCSS and HTML.
 
 ![Quiz](https://github.com/bogojevski8/Quiz/assets/155783816/fb30efe0-a8eb-40ec-b8f7-6a786003d7e6)
 
